@@ -1,4 +1,4 @@
-# XYZReader
+# XYZ Reader
 
 This is a mock RSS feed reader.
 
